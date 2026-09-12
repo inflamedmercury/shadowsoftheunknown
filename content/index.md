@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Shadows of the Unknown!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the wiki for our Campaign, important things will be added or something if I remember lmao, enjoy yourselves
