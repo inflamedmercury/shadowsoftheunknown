@@ -1,1 +1,3 @@
-Creatures that do not fit normal definitions of the world of Faerun, they show different aspects that are anomalous and in many cases dangerous. These entities sometimes challenge the rules of reality, and can cause the 
+Creatures that do not fit normal definitions of the world of Faerun, they show different aspects that are anomalous and in many cases dangerous. These entities sometimes challenge the rules of reality. So far we know that these monsters are powered by either forceful summoning, or strong emotions. 
+
+Their existance is very connected to the Weave, either created by strong emotions, or purposeful tampering of it
