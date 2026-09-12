@@ -1,0 +1,1 @@
+Creatures that do not fit normal definitions of the world of Faerun, they show different aspects that are anomalous and in many cases dangerous. These entities sometimes challenge the rules of reality, and can cause the 
