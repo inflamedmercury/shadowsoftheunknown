@@ -7,11 +7,11 @@
 **Age:** 140
 **Place of Origin:** [Baldur’s Gate]
 **Current Status:** Active, Previously Retired
-**Affiliation:** Independent, Former [City Watch] - Logistics Officer
+**Affiliation:** Independent, Former [[City Watch]] - Logistics Officer
 
 ### **Summary of Capability**
 
-A standardized assessment conducted by the [Registry’s Evaluators of Adventuring Capability]:
+Standardized assessment conducted by the [[Registry’s Evaluators of Adventuring Capability]]:
 
 - **Combat Aptitude:**
     Skilled with throwing weapons and is resistant to poison. Surprisingly nimble for stature and age.
@@ -22,7 +22,7 @@ A standardized assessment conducted by the [Registry’s Evaluators of Adventuri
 - **Social, Diplomatic, or Mercantile Skills:**
     Respected person amongst the [City Watch], even 10 years after retirement. Intimidating presence due to tired, mean expression. Public opinion is above average due to ties to [Solana Ophelia Rudra]. 
 - **Notable Talents:**
-    6 year champion amongst the [City Watch] for playing cards, circa 1451 - 1456.
+    6 year champion amongst the [City Watch] for [[playing cards]], circa 1451 - 1456.
     Trained for carriage driving in case of public emergency.
     Noted for ability to stay calm in moments of public panic/emergencies.
 
@@ -98,7 +98,7 @@ A record of items declared at the Baldur’s Gate customs checkpoint or observed
 Individuals frequently seen traveling with the registrant.
 
 - **Family Members:**
-    [Solana Ophelia Rudra] (Spouse) Status: Unknown
+    [[Solana Ophelia Rudra] (Spouse) Status: Unknown
     [Lyra Rudra] (Eldest Daughter) Status: Alive
     [Thalen Rudra] (Eldest Son) Status: Alive
     [Fenro Rudra] (Youngest Son) Status: Alive
