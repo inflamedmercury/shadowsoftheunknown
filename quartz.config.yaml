@@ -113,9 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "its-theme"
-      variation:
-      mode: both
+      theme: its-theme
+      variation: ttrpg-wotc
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
