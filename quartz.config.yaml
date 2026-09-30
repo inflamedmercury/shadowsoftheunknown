@@ -277,6 +277,18 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/recent-notes
+    enabled: false
+    options:
+      limit: 3
+      linkToMore: false
+      showTags: true
+      hideTagPages: false
+      hideFolderPages: false
+    order: 50
+    layout:
+      position: afterBody
+      priority: 50
 layout:
   groups:
     toolbar:
