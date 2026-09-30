@@ -50,3 +50,5 @@ After the fiery attack, the party went to the stalls and found a potion salesman
 Outside the cabin, Magnus was investigating the forest, looking for anything that could give him a clue. However, after initial failure, with a little help from Peridot and her Fey magic, Magnus noticed something important. This forest had the same layout and Aura as the [Forest of the Lost](Forest%20of%20the%20Lost.md), the forest that housed the cave at Gravebrook. As the realization hit him, he felt something odd on his head; his whole scalp was now ablaze, his locks now strands of fire. This was an effect of the fey magic that he leaned on to intuit his latest finding. He conveyed this to the party, who then realized that Cinder had a closed fist. Wilhelm opened it with no effort, as the man had been enfeebled from lack of eating. In his hand was a token, similar to the one at Gravebrook, but with a theatre mask and a flame on it. Cinder feebly asked Wilhelm, "Please.... you must bring her back.... You must help her." Wilhelm solemnly told him that he would try
 
 And thus the session ended.
+
+[[The Secrets of the Hamlet - 09-28-26|Next Session ]]
