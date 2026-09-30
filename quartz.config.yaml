@@ -278,21 +278,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: github:quartz-community/recent-notes
-<<<<<<< HEAD
-    enabled: false
-    options:
-      limit: 3
-      linkToMore: false
-      showTags: true
-      hideTagPages: false
-      hideFolderPages: false
-    order: 50
-    layout:
-      position: afterBody
-      priority: 50
-=======
     enabled: true
->>>>>>> 7e8433b8ee20f1cb16e2f2e8b57e203e6f138e15
 layout:
   groups:
     toolbar:
